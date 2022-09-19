@@ -1,0 +1,10 @@
+.header__image {
+  background: url(../../../images/header_image.jpg) center no-repeat;
+  background-size: 80%;
+  width: 1620px;
+  height: 1080px;
+  position: absolute;
+  right: -430px;
+  bottom: -156px;
+  z-index: -1;
+}
