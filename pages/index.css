@@ -29,3 +29,10 @@
 
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_color/logo_color_white.css);
+
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__cards/gallery__cards.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
