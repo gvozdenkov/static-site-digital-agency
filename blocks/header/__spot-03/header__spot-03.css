@@ -1,0 +1,8 @@
+.header__spot-03 {
+  width: 200px;
+  position: absolute;
+  top: -260px;
+  right: -63px;
+  z-index: -1;
+  rotate: 190deg;
+}

@@ -1,0 +1,7 @@
+.header__spot-01 {
+  width: 400px;
+  position: absolute;
+  top: -356px;
+  left: 360px;
+  z-index: -1;
+}
