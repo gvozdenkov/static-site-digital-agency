@@ -1,0 +1,10 @@
+.description__paragraph {
+  align-self: flex-end;
+  max-width: 500px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+}
+
+.description__paragraph:last-child {
+  margin-bottom: 0;
+}

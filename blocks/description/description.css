@@ -1,0 +1,9 @@
+.description {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  display: flex;
+  flex-flow: column;
+  min-height: 500px;
+  position: relative;
+  overflow: hidden;
+}

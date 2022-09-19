@@ -1,0 +1,8 @@
+.description__spot-02 {
+  width: 220px;
+  rotate: 200deg;
+  position: absolute;
+  top: -111px;
+  left: 195px;
+  z-index: -1;
+}
