@@ -53,3 +53,10 @@
 @import url(../blocks/card-text/__section-title/card-text__section-title.css);
 @import url(../blocks/card-text/__spot-01/card-text__spot-01.css);
 @import url(../blocks/card-text/__spot-01/_invert/card-text__spot-01_invert.css);
+
+@import url(../blocks/gallery-2/gallery-2.css);
+@import url(../blocks/gallery-2/__cards/gallery-2__cards.css);
+@import url(../blocks/gallery-2/__main-text/gallery-2__main-text.css);
+
+
+
