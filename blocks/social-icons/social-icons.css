@@ -1,0 +1,9 @@
+.sical-icons {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

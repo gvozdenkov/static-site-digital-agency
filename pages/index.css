@@ -58,5 +58,16 @@
 @import url(../blocks/gallery-2/__cards/gallery-2__cards.css);
 @import url(../blocks/gallery-2/__main-text/gallery-2__main-text.css);
 
+@import url(../blocks/innovation/innovation.css);
+@import url(../blocks/innovation/__section-title/innovation__section-title.css);
+@import url(../blocks/innovation/__main-text/innovation__main-text.css);
+@import url(../blocks/innovation/__spot-01/innovation__spot-01.css);
+@import url(../blocks/innovation/__social-icons/innovation__social-icons.css);
 
+@import url(../blocks/social-icons/social-icons.css);
+@import url(../blocks/social-icons/__link/social-icons__link.css);
 
+@import url(../blocks/icon/icon.css);
+@import url(../blocks/icon/_type/icon_type_facebook.css);
+@import url(../blocks/icon/_type/icon_type_vk.css);
+@import url(../blocks/icon/_type/icon_type_instagram.css);

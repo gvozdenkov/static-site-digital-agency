@@ -1,0 +1,7 @@
+.innovation {
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  min-height: 600px;
+  overflow: hidden;
+}
