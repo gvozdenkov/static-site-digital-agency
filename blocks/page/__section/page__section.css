@@ -1,3 +1,3 @@
 .page__section {
-  padding: 0 max(calc((100% - 1200px) / 2), 50px);
+  padding: 50px max(calc((100% - 1200px) / 2), 50px);
 }
