@@ -43,3 +43,12 @@
 @import url(../blocks/description/__section-title/description__section-title.css);
 @import url(../blocks/description/__paragraph/description__paragraph.css);
 @import url(../blocks/description/__spot-02/description__spot-02.css);
+
+@import url(../blocks/bullet-points/bullet-points.css);
+
+@import url(../blocks/card-text/card-text.css);
+@import url(../blocks/card-text/_invert/card-text_invert.css);
+@import url(../blocks/card-text/__img/card-text__img.css);
+@import url(../blocks/card-text/__section-title/card-text__section-title.css);
+@import url(../blocks/card-text/__spot-01/card-text__spot-01.css);
+@import url(../blocks/card-text/__spot-01/_invert/card-text__spot-01_invert.css);

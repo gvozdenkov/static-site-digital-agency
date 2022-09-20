@@ -1,0 +1,13 @@
+.card-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-height: 480px;
+  height: 480px;
+  position: relative;
+  padding-bottom: 250px;
+}
+
+.card-text:last-child {
+  padding-bottom: 0;
+}

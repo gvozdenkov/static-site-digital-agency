@@ -1,0 +1,8 @@
+.card-text__spot-01 {
+  width: 320px;
+  rotate: 270deg;
+  position: absolute;
+  top: -77px;
+  left: 306px;
+  z-index: -1;
+}
