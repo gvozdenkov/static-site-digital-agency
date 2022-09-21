@@ -1,0 +1,8 @@
+.footer__spot-01 {
+  width: 220px;
+  rotate: 200deg;
+  position: absolute;
+  bottom: -526px;
+  left: 118px;
+  z-index: -1;
+}

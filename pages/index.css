@@ -31,6 +31,7 @@
 @import url(../blocks/hover-underline/hover-underline.css);
 
 @import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/logo/_color/logo_color_white.css);
 
 @import url(../blocks/gallery/gallery.css);
@@ -87,3 +88,7 @@
 @import url(../blocks/conclusion/__main-text/conclusion__main-text.css);
 @import url(../blocks/conclusion/__bg-img/conclusion__bg-img.css);
 @import url(../blocks/conclusion/__spot-01/conclusion__spot-01.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__spot-01/footer__spot-01.css);
