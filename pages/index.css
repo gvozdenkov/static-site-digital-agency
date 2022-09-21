@@ -76,12 +76,12 @@
 @import url(../blocks/can-help/__main-text/can-help__main-text.css);
 @import url(../blocks/can-help/__form-wrap/can-help__form-wrap.css);
 @import url(../blocks/can-help/__form/can-help__form.css);
+@import url(../blocks/can-help/__bg-img/can-help__bg-img.css);
 
 @import url(../blocks/form/form.css);
 @import url(../blocks/form/__input/form__input.css);
 @import url(../blocks/form/__input/_type/form__input_textarea.css);
 @import url(../blocks/form/__submit/form__submit.css);
-@import url(../blocks/form/__bg-img/form__bg-img.css);
 
 @import url(../blocks/conclusion/conclusion.css);
 @import url(../blocks/conclusion/__main-text/conclusion__main-text.css);
