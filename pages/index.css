@@ -82,3 +82,8 @@
 @import url(../blocks/form/__input/_type/form__input_textarea.css);
 @import url(../blocks/form/__submit/form__submit.css);
 @import url(../blocks/form/__bg-img/form__bg-img.css);
+
+@import url(../blocks/conclusion/conclusion.css);
+@import url(../blocks/conclusion/__main-text/conclusion__main-text.css);
+@import url(../blocks/conclusion/__bg-img/conclusion__bg-img.css);
+@import url(../blocks/conclusion/__spot-01/conclusion__spot-01.css);

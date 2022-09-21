@@ -1,0 +1,9 @@
+.conclusion {
+  position: relative;
+  min-height: 900px;
+  padding-bottom: 0;
+  display: flex;
+  flex-flow: column;
+  overflow: hidden;
+  z-index: 0;
+}
