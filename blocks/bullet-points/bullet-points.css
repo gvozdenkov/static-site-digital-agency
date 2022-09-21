@@ -1,3 +1,4 @@
 .bullet-points {
   position: relative;
+  overflow: hidden;
 }
