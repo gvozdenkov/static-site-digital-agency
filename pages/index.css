@@ -14,6 +14,7 @@
 
 @import url(../blocks/main-text/main-text.css);
 @import url(../blocks/section-title/section-title.css);
+@import url(../blocks/button/button.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__image/header__image.css);
@@ -59,7 +60,6 @@
 @import url(../blocks/gallery-2/__main-text/gallery-2__main-text.css);
 
 @import url(../blocks/innovation/innovation.css);
-@import url(../blocks/innovation/__section-title/innovation__section-title.css);
 @import url(../blocks/innovation/__main-text/innovation__main-text.css);
 @import url(../blocks/innovation/__spot-01/innovation__spot-01.css);
 @import url(../blocks/innovation/__social-icons/innovation__social-icons.css);
@@ -71,3 +71,14 @@
 @import url(../blocks/icon/_type/icon_type_facebook.css);
 @import url(../blocks/icon/_type/icon_type_vk.css);
 @import url(../blocks/icon/_type/icon_type_instagram.css);
+
+@import url(../blocks/can-help/can-help.css);
+@import url(../blocks/can-help/__main-text/can-help__main-text.css);
+@import url(../blocks/can-help/__form-wrap/can-help__form-wrap.css);
+@import url(../blocks/can-help/__form/can-help__form.css);
+
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__input/_type/form__input_textarea.css);
+@import url(../blocks/form/__submit/form__submit.css);
+@import url(../blocks/form/__bg-img/form__bg-img.css);

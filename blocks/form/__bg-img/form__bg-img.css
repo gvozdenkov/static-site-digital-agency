@@ -1,0 +1,10 @@
+.can-help__bg-img {
+  background: url(//images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/8d85ca7bfed4589db8808623/pexelsphoto305241.png)
+    center no-repeat;
+  background-size: 100%;
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  right: 30px;
+  bottom: -50px;
+}
